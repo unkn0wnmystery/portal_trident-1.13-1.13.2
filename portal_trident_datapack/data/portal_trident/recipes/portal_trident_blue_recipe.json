@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#iL",
+        "DSi",
+        "i#i"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:structure_void"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
